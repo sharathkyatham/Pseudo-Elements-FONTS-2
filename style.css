@@ -1,0 +1,67 @@
+#IC {
+    animation: color 5s infinite;
+}
+
+@keyframes color {
+    0%{color: orange;}
+    10%{color: purple;}
+    20%{color: red;}
+    30%{color: cyan;}
+    40%{color:deeppink;}
+    50%{color: yellow;}
+    60%{color: indigo;}
+    70%{color: green;}
+    80%{color: cadetblue;}
+    90%{color: coral;}
+    100%{color: darkgoldenrod;}
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=swap');
+
+#first {
+    font-family: 'Rubik Doodle Triangles', system-ui;
+    color: darkgreen;
+    letter-spacing: 25px;
+    text-align: center;
+    font-weight: 900;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+
+
+#second {
+    font-family: 'Long Cang', cursive;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+
+div {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+  font-weight: 900;
+}
+
+#third {
+    font-style: oblique;
+    color: greenyellow;
+    letter-spacing: 25px;
+    text-align: center;
+    font-weight: 900;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&display=swap');
+
+
+  #four {
+    font-family: 'Bodoni Moda', serif;
+     font-weight: 600;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+  span {
+    font-family: 'Satisfy', cursive;
+  }
+
+  
